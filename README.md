@@ -16,7 +16,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
 4) Storingpassword Sample Program using bcrypt <br>
     #### for more password encryption golang examples <br>
     https://golang.hotexamples.com/examples/golang.org.x.crypto.scrypt/-/Key/golang-key-function-examples.html <br>
-
+5) HMAC Sample - Hash Message Authentication Code (HMAC) as defined in U.S. Federal Information Processing Standards Publication 198. An HMAC is a cryptographic hash that uses a key to sign a message. The receiver verifies the hash by recomputing it using the same key. <br>
 
 ### Screenshots:
 1) Marshal Sample <br>
@@ -30,4 +30,6 @@ Encode postman Request:<br>
 Decode postman Request:<br>
 <img src="Screenshots/postman_decode_sample.png" /><br>
 4) Storingpassword Sample Program using bcrypt <br>
-<img src="Screenshots/Storingpassword_sample.png"/>
+<img src="Screenshots/Storingpassword_sample.png"/><br>
+5) HMAC Sample <br>
+<img src="Screenshots/HMAC_Sample.png"><br>
