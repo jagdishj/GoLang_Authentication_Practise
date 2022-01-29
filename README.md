@@ -14,7 +14,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
 2) Unmarshal Sample -- Converting json to objects <br>
 3) Encode and Decode Sample Program <br>
 4) Storingpassword Sample Program using bcrypt <br>
-    for more password encryption algo examples <br>
+    #### for more password encryption golang examples <br>
     https://golang.hotexamples.com/examples/golang.org.x.crypto.scrypt/-/Key/golang-key-function-examples.html <br>
 
 
