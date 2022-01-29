@@ -17,6 +17,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
     #### for more password encryption golang examples <br>
     https://golang.hotexamples.com/examples/golang.org.x.crypto.scrypt/-/Key/golang-key-function-examples.html <br>
 5) HMAC Sample - Hash Message Authentication Code (HMAC) as defined in U.S. Federal Information Processing Standards Publication 198. An HMAC is a cryptographic hash that uses a key to sign a message. The receiver verifies the hash by recomputing it using the same key. <br>
+6) HMAC Sample 2- with Client Response and Saved Key in Cookie<br>
 
 ### Screenshots:
 1) Marshal Sample <br>
@@ -33,3 +34,5 @@ Decode postman Request:<br>
 <img src="Screenshots/Storingpassword_sample.png"/><br>
 5) HMAC Sample <br>
 <img src="Screenshots/HMAC_Sample.png"><br>
+6) HMAC Sample 2<br>
+<img src="Screenshots/HMAC_Sample2.png"><br>
