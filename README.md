@@ -35,6 +35,8 @@ Check Go Configuaration using VS Terminal by running below commands <br>
 8) base64 encode-decode <br>
 9) Crypto Sample <br>
 10) Crypto Sample - Abstract encrypt writer function <br>
+11) HMAC Cookie Sample <br>
+12) HMAC Cookie Sample2 -- Logged in and Not <br>
 
 ### Output Screenshots:
 1) Marshal Sample <br>
@@ -62,3 +64,8 @@ Decode postman Request:<br>
 <img src="Screenshots/Crypto_sample.png"><br>
 10) Crypto Sample - Abstract encrypt writer function <br>
 <img src="Screenshots/Crypto_sample2.png"><br>
+11) HMAC Cookie Sample <br>
+<img src="Screenshots/HMAC_Cookie.png"><br>
+12) HMAC Cookie Sample2 -- Logged in and Not <br>
+<img src="Screenshots/HMAC_Cookie2_Login.png"><br>
+<img src="Screenshots/HMAC_Cookie2_NotLogged.png"><br>
