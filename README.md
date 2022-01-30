@@ -38,6 +38,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
 11) HMAC Cookie Sample <br>
 12) HMAC Cookie Sample2 -- Logged in and Not <br>
 13) JWT Cookie Sample -- Save JWT Token in Cookie and validate authentication.
+14) UserLoginRegistration -- Save Password in bcrypt
 
 ### Output Screenshots:
 1) Marshal Sample <br>
@@ -73,3 +74,6 @@ Decode postman Request:<br>
 13) JWT Cookie Sample <br>
 <img src="Screenshots/JWT_Cookie_Sample.png"><br>
 <img src="Screenshots/JWT_Cookie_Sample2.png"><br>
+14) UserLoginRegistration<br>
+<img src="Screenshots/UserLoginRegistration_1.png"><br>
+<img src="Screenshots/UserLoginRegistration_2.png"><br>
