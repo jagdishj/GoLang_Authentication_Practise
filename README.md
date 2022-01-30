@@ -18,6 +18,20 @@ Check Go Configuaration using VS Terminal by running below commands <br>
     https://golang.hotexamples.com/examples/golang.org.x.crypto.scrypt/-/Key/golang-key-function-examples.html <br>
 5) HMAC Sample - Hash Message Authentication Code (HMAC) as defined in U.S. Federal Information Processing Standards Publication 198. An HMAC is a cryptographic hash that uses a key to sign a message. The receiver verifies the hash by recomputing it using the same key. <br>
 6) HMAC Sample 2- with Client Response and Saved Key in Cookie<br>
+7) JWT - 
+    #### JWT INTRO - https://github.com/golang-jwt/jwt <br>
+    Hint: <br>
+    type UserClaims struct { 
+	jwt.StandardClaims 
+	SessionID int64 
+    } 
+    after typing above code run go mod tidy and restart your VS to get the jwt intellisense. <br>
+
+    to know more about JWT in GoLang visit https://learn.vonage.com/blog/2020/03/13/using-jwt-for-authentication-in-a-golang-application-dr/ <br>
+
+    for encode and decode jwt tokens vsiit https://jwt.io/ <br>
+
+    for uuid in goLang download package using go get github.com/gofrs/uuid
 
 ### Screenshots:
 1) Marshal Sample <br>
@@ -36,3 +50,6 @@ Decode postman Request:<br>
 <img src="Screenshots/HMAC_Sample.png"><br>
 6) HMAC Sample 2<br>
 <img src="Screenshots/HMAC_Sample2.png"><br>
+7) JWT Sample <br>
+<img src="Screenshots/JWT_Sample.png"><br>
+<img src="Screenshots/JWT_Sample_encode_decode.png"><br>
