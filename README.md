@@ -32,6 +32,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
     for encode and decode jwt tokens vsiit https://jwt.io/ <br>
 
     for uuid in goLang download package using go get github.com/gofrs/uuid
+8) base64 encode-decode <br>
 
 ### Screenshots:
 1) Marshal Sample <br>
@@ -53,3 +54,5 @@ Decode postman Request:<br>
 7) JWT Sample <br>
 <img src="Screenshots/JWT_Sample.png"><br>
 <img src="Screenshots/JWT_Sample_encode_decode.png"><br>
+8) base64 encode-decode <br>
+<img src="Screenshots/base64_encode_decode.png"><br>
