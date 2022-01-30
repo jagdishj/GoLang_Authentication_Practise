@@ -33,8 +33,9 @@ Check Go Configuaration using VS Terminal by running below commands <br>
 
     for uuid in goLang download package using go get github.com/gofrs/uuid
 8) base64 encode-decode <br>
+9) Crypto Sample <br>
 
-### Screenshots:
+### Output Screenshots:
 1) Marshal Sample <br>
 <img src="Screenshots/Marshal_Sample.png" /><br>
 2) UnMarshaling Sample <br>
@@ -56,3 +57,5 @@ Decode postman Request:<br>
 <img src="Screenshots/JWT_Sample_encode_decode.png"><br>
 8) base64 encode-decode <br>
 <img src="Screenshots/base64_encode_decode.png"><br>
+9) Crypto Sample <br>
+<img src="Screenshots/Crypto_sample.png"><br>
