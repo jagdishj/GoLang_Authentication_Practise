@@ -34,6 +34,7 @@ Check Go Configuaration using VS Terminal by running below commands <br>
     for uuid in goLang download package using go get github.com/gofrs/uuid
 8) base64 encode-decode <br>
 9) Crypto Sample <br>
+10) Crypto Sample - Abstract encrypt writer function <br>
 
 ### Output Screenshots:
 1) Marshal Sample <br>
@@ -59,3 +60,5 @@ Decode postman Request:<br>
 <img src="Screenshots/base64_encode_decode.png"><br>
 9) Crypto Sample <br>
 <img src="Screenshots/Crypto_sample.png"><br>
+10) Crypto Sample - Abstract encrypt writer function <br>
+<img src="Screenshots/Crypto_sample2.png"><br>
